@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34804.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PyToPdf", "PyToPdf.csproj", "{0429BE65-A5C3-49FE-9B87-952A9A2AD212}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0429BE65-A5C3-49FE-9B87-952A9A2AD212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0429BE65-A5C3-49FE-9B87-952A9A2AD212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0429BE65-A5C3-49FE-9B87-952A9A2AD212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0429BE65-A5C3-49FE-9B87-952A9A2AD212}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45CEED35-1D1C-4441-AF53-4336E7D879ED}
+	EndGlobalSection
+EndGlobal
